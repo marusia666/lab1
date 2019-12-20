@@ -80,14 +80,6 @@ public class MainAp {
                 } 
             }  
         }
-        //System.out.println("Чай цвета зеленый выпито");
-        System.out.println("Яблоко размера сбольшое съедено");
-        //System.out.println("Сыр съеден");
-        System.out.println("Общая каларийность завтрака: 15");
-        System.out.println("");
-        System.out.println("Завтрак: ");
-        //System.out.println("Сыр");
-        //System.out.println("Чай цвета зеленый");
         System.out.println("Яблоко большое");
         System.out.println("");
         System.out.println("Съедено больших яблок "+eat_a3);
