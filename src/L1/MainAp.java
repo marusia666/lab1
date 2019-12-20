@@ -80,8 +80,6 @@ public class MainAp {
                 } 
             }  
         }
-        System.out.println("Яблоко большое");
-        System.out.println("");
         System.out.println("Съедено больших яблок "+eat_a3);
         System.out.println("Съедено средних яблок "+eat_a2);
         System.out.println("Съедено маленьких яблок "+eat_a1);
